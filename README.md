@@ -1,4 +1,4 @@
-# Welcome to Netflix Clone Project
+# Welcome to Video Streaming App Project
 This project is a clone design of Netflix.com. The design is responsive and is coded using best practices.
 
 ### Screenshots
