@@ -15,12 +15,12 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
-    height: 90vh;
+    height: 650px;
     position: relative;
 }
 
 .main .box {
-    height: 90vh;
+    height: 650px;
     width: 100%;
     opacity: 0.6;
     background-color: black;
@@ -178,8 +178,25 @@ nav button {
 
 .secImg video {
     position: absolute;
+    width: 480px;
+    top: 85px;
+    right: 2px;
+}
+
+.secImg-first-third{
+    position: relative;
+}
+
+.secImg-first-third img{
     width: 555px;
-    top: 50px;
+    position: relative;
+    z-index: 10;
+}
+
+.secImg-first-third video{
+    position: absolute;
+    width: 480px;
+    top: 70px;
     right: 0px;
 }
 
